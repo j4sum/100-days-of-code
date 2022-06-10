@@ -9,16 +9,14 @@
 
 ### Day 2: 09/06/2022 
 
-**Today's Progress**: 
+**Today's Progress**: Started HTML and CSS with TOP.
 
-**Thoughts**: 
-
-**Link(s) to work**:
+**Thoughts**: I was not able to fully complete since other priorities took over.
 
 
 ### Day 3: 10/06/2022
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: 
 
 **Thoughts**:
 
